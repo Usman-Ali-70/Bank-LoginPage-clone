@@ -79,11 +79,12 @@ body {
 .login-form input[type="password"] {
   width: 100%;
   padding: 10px;
-  border: 1px solid white;
+  border: 1px solid rgb(120, 120, 120);
   border-radius: 10px;
   box-sizing: border-box;
   margin-bottom: 25px;
 }
+
 
 .login-form input[type="submit"] {
   width: 100%;
@@ -103,7 +104,7 @@ body {
   text-align: center;
   margin-top: 40px;
   margin-bottom: 40px;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .login-form p a {
